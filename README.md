@@ -99,7 +99,7 @@ Email: xuanyao_qian@brown.edu
 Junhe Chen
 Brown University, Data Science Institute
 
-GitHub: https://github.com/Pafuuuu
+GitHub: https://github.com/qazwsxL
 
 Email: junhe_chen@brown.edu
 
