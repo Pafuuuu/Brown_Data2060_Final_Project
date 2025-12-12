@@ -106,7 +106,7 @@ Email: junhe_chen@brown.edu
 Han Huang
 Brown University, Data Science Institute
 
-GitHub: https://github.com/Pafuuuu
+GitHub: https://github.com/hanhuang-Rosie
 
 Email: han_huang@brown.edu
 
