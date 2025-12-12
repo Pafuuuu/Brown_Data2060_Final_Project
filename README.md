@@ -113,7 +113,7 @@ Email: han_huang@brown.edu
 Junwei Su
 Brown University, Data Science Institute
 
-GitHub: https://github.com/Pafuuuu
+GitHub: https://github.com/asukajw
 
 Email: junwei_su@brown.edu
 
