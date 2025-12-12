@@ -45,7 +45,7 @@ This dataset is used as a real-world benchmark for evaluating tree model behavio
 
 This project uses a conda environment for full reproducibility.
 
-### `environment.yml`
+### `data2060.yml`
 
 ```yaml
 name: data2060
@@ -69,7 +69,7 @@ prefix: /opt/conda
 ### `Install the environment`
 ```bash
 conda env create -f data2060.yml
-conda activate data1030
+conda activate data2060
 ```
 ## 📁 Repository Structure
 ```
